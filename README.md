@@ -2,7 +2,7 @@
 Background: According to International Accounting Standards, Intellectual
 Property may not be recorded on balance sheets. It is partly the cause for
 differences between market capitalization of shares and balance sheet asset
-values. In my view the origin of the accounting standards relate much to
+values. In my view the origin of the accounting standards relates much to
 philosophical and religious convictions whereby "the Creator who forms" new
 ideas, "is" sacrificed. The capital of new ideas has been and currently is,
 subject to the use of "intelligence". Consequentially it is very difficult
