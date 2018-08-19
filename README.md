@@ -16,17 +16,11 @@ the necessary labour and buy necessary natural resources to develop valuable
 new ideas, whilst excluding the ones who generated the ideas.|||||
 Proposal: The proposal herewith is to form an exchange exclusively for
 Intellectual Property Parts (ipparts). According to the plan creative people
-who need finance to develop their ideas will sell ipparts in their copyrights,
+who need finance to develop their ideas will sell ipparts in their goodwill, copyrights,
 and other intellectual property, which may not be capitalized on balance sheets.
 Ipparts will be traded as ERC20 Ethereum tokens or as other tokens on another
-blockchain. It would be good to include a communication protocol between the
-ippart holders and the businesses selling the ipparts. Holders of ipparts will
-then be able to build on the intellectual property by saving their ideas
-regarding improvements onto a blockchain, which will entitle them to extra income
-from the business, in the form of newly issued tokens. There are thus two objects
-to form. An exchange and a platform to form tokens (ipparts). Refer to the Wiki.
-This first attempt at forming tokens is for ERC20. Need help at
-https://runkit.com/mdpienaar/ipparts if it is the right place to start. Ipparts
+blockchain. Need help at
+https://runkit.com/mdpienaar/ipparts if it is the right place to start the Ipparts Exchange. Ipparts
 and the exchange will be technology available for free (mahala), to anyone
 who wants to monetize their assets i.e. copyrights, goodwill, trademarks etc,
 which may not be recorded on balance sheets according to International Accounting
