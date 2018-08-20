@@ -28,7 +28,8 @@ Standards. ||||| Currently Africahead is busy with an over the counter ICO at
 https://www.africahead.co.za/Africahead/RaisingCapital.html. The website is very 
 basic and most is done manually. The purpose of the ICO is raising funds for expansion
 of the Africahead business, which will include a new website. After the ICO raised new
-capital I want to list the issued Africahead Ipparts (AFA) on the envisaged Ipparts Exchange,
-as the first token, backed by a brand. Then want to see other tokens, using the idea on the
-same exchange, which should be exclusively an Ipparts Exchange. Contact me (Marquard Pienaar)
-at africahead2@gmail.com.
+capital I want to list the issued Africahead Ipparts (AFA) 
+(https://etherscan.io/token/0xfb48e0dea837f9438309a7e9f0cfe7ee3353a84e) on the envisaged
+Ipparts Exchange, as the first token, backed by a brand. Then want to see other tokens,
+using the idea on the same exchange, which should be exclusively an Ipparts Exchange.
+Contact me (Marquard Pienaar) at africahead2@gmail.com.
