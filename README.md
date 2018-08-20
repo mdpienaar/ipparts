@@ -24,4 +24,11 @@ https://runkit.com/mdpienaar/ipparts if it is the right place to start the Ippar
 and the exchange will be technology available for free (mahala), to anyone
 who wants to monetize their assets i.e. copyrights, goodwill, trademarks etc,
 which may not be recorded on balance sheets according to International Accounting
-Standards.
+Standards. ||||| Currently Africahead is busy with an over the counter ICO at
+https://www.africahead.co.za/Africahead/RaisingCapital.html. The website is very 
+basic and most is done manually. The purpose of the ICO is raising funds for expansion
+of the Africahead business, which will include a new website. After the ICO raised new
+capital I want to list the issued Africahead Ipparts (AFA) on the envisaged Ipparts Exchange,
+as the first token, backed by a brand. Then want to see other tokens, using the idea on the
+same exchange, which should be exclusively an Ipparts Exchange. Contact me (Marquard Pienaar)
+at africahead2@gmail.com.
