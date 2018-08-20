@@ -13,7 +13,8 @@ salaries and wages, but they did not motivate rights to ideas generated.
 Generating ideas is the first step of improvement. If people who have easy
 access to money also have easy access to new ideas, they can easily employ
 the necessary labour and buy necessary natural resources to develop valuable
-new ideas, whilst excluding the ones who generated the ideas.|||||
+new ideas, whilst excluding the ones who generated the ideas. Refer to the Wiki
+for more background information: https://github.com/mdpienaar/ipparts/wiki |||||
 Proposal: The proposal herewith is to form an exchange exclusively for
 Intellectual Property Parts (ipparts). According to the plan creative people
 who need finance to develop their ideas will sell ipparts in their goodwill, copyrights,
