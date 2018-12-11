@@ -20,9 +20,7 @@ Intellectual Property Parts (ipparts). According to the plan creative people
 who need finance to develop their ideas will sell ipparts in their goodwill, copyrights,
 and other intellectual property, which may not be capitalized on balance sheets.
 Ipparts will be traded as ERC20 Ethereum tokens or as other tokens on another
-blockchain. Need help at
-https://runkit.com/mdpienaar/ipparts if it is the right place to start the Ipparts Exchange.
-Can pay with Africahead Ipparts (AFA) Erc20 token. Forming new Ipparts
+blockchain. Forming new Ipparts
 and the exchange will be technology available for free (mahala), to anyone
 who wants to monetize their assets i.e. copyrights, goodwill, trademarks etc,
 which may not be recorded on balance sheets according to International Accounting
