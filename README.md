@@ -27,7 +27,8 @@ Other brand tokens have also been listed and can be bought with ETH and Moyom (M
 Exchange (IPPAEX), on Ledgerdex.com currently. The purpose of the ITOs is raising funds for expansion
 of the Africahead business and implementation of different projects, which will include new websites. After the ITOs
 raised new
-capital I want to develop an own exchange platform on which the brand tokens will trade at least, against MYM.
+capital I want to develop an own exchange platform on which the brand tokens will trade at least, against MYM. MYM's Etherscan
+page is https://etherscan.io/token/0xb9892f9a892f3e251fc58b9076c56add528eb8a6 and MYM must be traded at least against ETH.
 The following webpages and Github websites are particularly relevant:
 https://www.africahead.co.za/Africahead/IppartsExchange.html & https://www.africahead.co.za/Africahead/Moyom.html &
 https://africahead.github.io & https://dividedparty.github.io & https://fonetones.github.io &
