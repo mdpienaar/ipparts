@@ -18,10 +18,11 @@ for more background information: https://github.com/mdpienaar/ipparts/wiki |||||
 Proposal: The proposal herewith is to form an exchange exclusively for
 Intellectual Property Parts (ipparts). According to the plan creative people
 who need finance to develop their ideas will sell ipparts in their goodwill, copyrights,
-and other intellectual property, which may not be capitalized on balance sheets, unless it is sold
+and other intellectual property, which may not be capitalized on balance sheets, unless it is sold.
 Ipparts will be traded as ERC20 Ethereum tokens or as other tokens on another
 blockchain.||||| Currently Africahead is busy with an over the counter ITO of Africahead Ipparts (AFA), at
-https://www.africahead.co.za/Africahead/RaisingCapital.html. AFA was the first brand token.
+https://www.africahead.co.za/Africahead/RaisingCapital.html. AFA was the first brand token and is backed by 48% of the
+Africahead brand-value/goodwill/copyrights. Refer to the white paper.
 Other brand tokens have also been listed and can be bought with ETH and Moyom (MYM), the utility token of Ipparts
 Exchange (IPPAEX), on Ledgerdex.com currently. The purpose of the ITOs is raising funds for expansion
 of the Africahead business and implementation of different projects, which will include new websites. After the ITOs
